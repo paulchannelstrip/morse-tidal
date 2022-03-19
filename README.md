@@ -3,7 +3,7 @@ Morse Code pattern generator for [Tidal Cycles](https://www.tidalcycles.org/)
 
 ## Installation
 
-Simply place the `morse.hs` file in a memorable location (I suggest having a dedicated folder for Tidal scripts), and source it in your Boottidal.hs with:
+Place the `morse.hs` file in a memorable location (I suggest having a dedicated folder for Tidal scripts), and source it in your Boottidal.hs with:
 
 ```haskell
 :script /full/path/to/morse.hs
